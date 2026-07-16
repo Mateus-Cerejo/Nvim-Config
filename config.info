@@ -1,0 +1,8 @@
+Yes the folder needs to be called lua
+Yes the folder needs to be called lsp
+
+
+# To add a lsp without plugins
+    - in the lua/lsps.lua file add vim.lsp.enable("somelsp")
+    - in the lsp/ add the file somelsp.lua that you get from https://github.com/neovim/nvim-lspconfig/blob/master/lsp/
+
