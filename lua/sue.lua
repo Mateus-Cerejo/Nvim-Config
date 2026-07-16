@@ -16,7 +16,7 @@ require('lsps')
 
 ------------------------- Shortcuts --------------------
 
-require('shortcuts')
+require('keybinds')
 
 ------------------------- Other ------------------------
 
